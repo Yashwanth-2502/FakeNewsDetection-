@@ -42,7 +42,7 @@ The system uses:
   Dataset
 
 The project uses two datasets:
-
+Dataset: https://www.kaggle.com/datasets/jainpooja/fake-news-detection?resource=download&select=True.csv
 * `True.csv` → Real news articles
 * `Fake.csv` → Fake news articles
 
